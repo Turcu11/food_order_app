@@ -1,0 +1,87 @@
+{
+    "burgers": [
+        {
+            "id": 1,
+            "name": "Cheeseburger",
+            "price": 8.99
+        },
+        {
+            "id": 2,
+            "name": "Veggie Burger",
+            "price": 7.99
+        },
+        {
+            "id": 3,
+            "name": "Double Cheeseburger",
+            "price": 10.99
+        }
+    ],
+    "pasta": [
+        {
+            "id": 4,
+            "name": "Spaghetti Bolognese",
+            "price": 12.99
+        },
+        {
+            "id": 5,
+            "name": "Carbonara",
+            "price": 11.99
+        },
+        {
+            "id": 6,
+            "name": "Pesto Pasta",
+            "price": 10.99
+        }
+    ],
+    "pizza": [
+        {
+            "id": 7,
+            "name": "Margherita",
+            "price": 9.99
+        },
+        {
+            "id": 8,
+            "name": "Pepperoni",
+            "price": 11.99
+        },
+        {
+            "id": 9,
+            "name": "Vegetarian",
+            "price": 10.99
+        }
+    ],
+    "soda": [
+        {
+            "id": 10,
+            "name": "Coca-Cola",
+            "price": 2.99
+        },
+        {
+            "id": 11,
+            "name": "Sprite",
+            "price": 2.99
+        },
+        {
+            "id": 12,
+            "name": "Fanta",
+            "price": 2.99
+        }
+    ],
+    "ice_cream": [
+        {
+            "id": 13,
+            "name": "Vanilla",
+            "price": 4.99
+        },
+        {
+            "id": 14,
+            "name": "Chocolate",
+            "price": 4.99
+        },
+        {
+            "id": 15,
+            "name": "Strawberry",
+            "price": 4.99
+        }
+    ]
+}
